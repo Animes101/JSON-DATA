@@ -1,0 +1,42 @@
+{
+    "friends":[
+    {
+    "name":"Suborno",
+    "age":23,
+    "address":"thakurgaon",
+    "marrid":false,
+    "Strudy":true,
+    "languess":["bangla","English","Tamil","hindi"],
+    "family":[
+        {
+            "fatherName":"Horilal Barman",
+            "motherName":"Golapi Rani"
+        },
+        {
+            "sister":true,
+            "brother":false
+
+        }
+    ]
+},
+{
+    "name":"Suborno",
+    "age":23,
+    "address":"thakurgaon",
+    "marrid":false,
+    "Strudy":true,
+    "languess":["bangla","English","Tamil","hindi"],
+    "family":[
+        {
+            "fatherName":"Horilal Barman",
+            "motherName":"Golapi Rani"
+        },
+        {
+            "sister":true,
+            "brother":false
+
+        }
+    ]
+}
+]
+}
